@@ -1,0 +1,2 @@
+export declare const createServiceProxy: (target: string) => import("http-proxy-middleware").RequestHandler<import("http").IncomingMessage, import("http").ServerResponse<import("http").IncomingMessage>, (err?: any) => void>;
+//# sourceMappingURL=proxy.d.ts.map
